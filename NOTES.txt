@@ -1,0 +1,1 @@
+check username/email/whatever and use that as decryption key for aes assembly in c# load_assembly
